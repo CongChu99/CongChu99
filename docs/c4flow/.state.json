@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "currentState": "TEST",
+  "feature": {
+    "name": "GitHub Profile",
+    "slug": "github-profile",
+    "description": "Tạo một GitHub Profile README đẹp và ấn tượng, định vị bản thân là Python Tech Lead & Security specialist với Colorful/Animated style, có Odoo và DevOps như secondary skills"
+  },
+  "mode": "research",
+  "startedAt": "2026-03-18",
+  "completedStates": [
+    "RESEARCH",
+    "SPEC",
+    "DESIGN",
+    "BEADS",
+    "CODE"
+  ],
+  "failedAttempts": 0,
+  "beadsEpic": "CongChu99-2ci",
+  "doltRemote": null,
+  "worktree": null,
+  "prNumber": null,
+  "lastError": null
+}
