@@ -18,8 +18,12 @@ I'm a Python Tech Lead and DevSecOps Engineer with deep expertise in Odoo ERP de
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CongChu99-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-CongChu99-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -75,6 +79,7 @@ I'm a Python Tech Lead and DevSecOps Engineer with deep expertise in Odoo ERP de
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
