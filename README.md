@@ -50,7 +50,7 @@ I'm a Python Tech Lead and DevSecOps Engineer with deep expertise in Odoo ERP de
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 </div>
@@ -66,7 +66,7 @@ I'm a Python Tech Lead and DevSecOps Engineer with deep expertise in Odoo ERP de
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -88,12 +88,12 @@ I'm a Python Tech Lead and DevSecOps Engineer with deep expertise in Odoo ERP de
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CongChu99&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="CongChu99 GitHub Stats" />&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CongChu99&theme=tokyonight&hide_border=true" alt="CongChu99 GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CongChu99&bg_color=0D1117&title_color=714B67&text_color=C9D1D9&icon_color=017E84&border_color=30363D&show_icons=true&hide_border=true&count_private=true" alt="CongChu99 GitHub Stats" />&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=CongChu99&background=0D1117&ring=714B67&fire=017E84&currStreakLabel=017E84&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border=30363D&hide_border=true" alt="CongChu99 GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CongChu99&layout=compact&theme=tokyonight&hide_border=true" alt="CongChu99 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CongChu99&layout=compact&bg_color=0D1117&title_color=714B67&text_color=C9D1D9&icon_color=017E84&border_color=30363D&hide_border=true" alt="CongChu99 Top Languages" />
 </p>
 
 ---
